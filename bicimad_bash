@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# generado inicialmente con comando
+# export APPNAME=bicimad_bash && py2txt ~/dropbox/learning/docker.py | bash 
+# substitute this with your main script
+echo "Hello world. Docker app bicimad_bash created and running"
